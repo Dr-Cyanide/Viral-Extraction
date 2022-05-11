@@ -6,12 +6,12 @@ public class Bullet : MonoBehaviour
 {
     public float bulletSpeed = 100.0f;
     public GameObject splatEffect;
-    GameObject LevelManager;
+    //GameObject LevelManager;
 
     // Start is called before the first frame update
     void Start()
     {
-        LevelManager = GameObject.FindGameObjectWithTag("LevelManager");
+        //LevelManager = GameObject.FindGameObjectWithTag("LevelManager");
 
         gameObject.GetComponent<Rigidbody>().velocity = transform.forward * bulletSpeed;
         Invoke("DestroySelf", 5.0f);
@@ -27,7 +27,7 @@ public class Bullet : MonoBehaviour
     {
         if(collision.gameObject.tag == "Enemy")
         {
-            LevelManager.GetComponent<LevelManager>().score++;
+            //LevelManager.GetComponent<LevelManager>().score++;
             Instantiate(splatEffect, collision.transform.position, Quaternion.identity);
             Destroy(collision.gameObject);
         }
@@ -35,7 +35,12 @@ public class Bullet : MonoBehaviour
         {
             DestroySelf();
         }
- 
+
+        if (collision.gameObject.tag == "Environment")
+        {
+            DestroySelf();
+        }
+
     }
 
     void DestroySelf()
