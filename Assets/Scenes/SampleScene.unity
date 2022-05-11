@@ -122,7 +122,7 @@ NavMeshSettings:
     preserveTilesOutsideBounds: 0
     debug:
       m_Flags: 0
-  m_NavMeshData: {fileID: 0}
+  m_NavMeshData: {fileID: 23800000, guid: a1865efef68ca704e960f449864ecdca, type: 2}
 --- !u!1 &1565499
 GameObject:
   m_ObjectHideFlags: 0
@@ -2565,6 +2565,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabIslandTable (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
 --- !u!4 &24353882 stripped
@@ -2630,6 +2638,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
       propertyPath: m_Name
       value: Obj_LabSinkTable (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
@@ -2789,6 +2805,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -3049,6 +3073,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &46463000 stripped
@@ -3181,6 +3213,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabTableCabinet (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
 --- !u!4 &48227028 stripped
@@ -3250,6 +3290,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (42)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -3903,6 +3951,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &63750784 stripped
@@ -4006,6 +4062,7 @@ Transform:
   - {fileID: 1594497238}
   - {fileID: 1049557931}
   - {fileID: 450392494}
+  - {fileID: 125288872}
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -4067,6 +4124,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
       propertyPath: m_Name
       value: Obj_LabDTable (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
@@ -4207,6 +4272,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -4660,6 +4733,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabWasteBin (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
 --- !u!4 &81988445 stripped
@@ -4721,6 +4802,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -4951,6 +5040,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
       propertyPath: m_Name
       value: Obj_LabSinkTable (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
@@ -5317,6 +5414,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &95681978 stripped
@@ -5383,6 +5488,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
       propertyPath: m_Name
       value: Obj_LabIslandTable (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
@@ -5594,6 +5707,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -6115,6 +6236,11 @@ Mesh:
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 511ff1ad201e86047822565741c0e02a, type: 3}
   m_PrefabInstance: {fileID: 460832687}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &125288872 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
+  m_PrefabInstance: {fileID: 221627099}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &125799479
 GameObject:
@@ -7044,6 +7170,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &130661798 stripped
@@ -7362,6 +7496,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (45)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &150013936 stripped
@@ -7600,6 +7742,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
       propertyPath: m_Name
       value: Obj_LabTableWedge (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
@@ -8043,6 +8193,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (25)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &167043258 stripped
@@ -8462,6 +8620,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -9679,23 +9845,23 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 65606460}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -40.957
+      value: -18.715162
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.748
+      value: -17.235277
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.576
+      value: 5.062349
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
       propertyPath: m_LocalRotation.w
@@ -9703,7 +9869,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
       propertyPath: m_LocalRotation.y
@@ -9728,6 +9894,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
       propertyPath: m_Name
       value: Obj_LabTableCabinet
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
@@ -10550,6 +10724,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabTableWedge (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
 --- !u!4 &231551281 stripped
@@ -11094,6 +11276,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (50)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &257820234 stripped
@@ -11391,6 +11581,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -11791,7 +11989,7 @@ RectTransform:
   - {fileID: 1106003703}
   - {fileID: 6619638}
   m_Father: {fileID: 0}
-  m_RootOrder: 25
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -11864,6 +12062,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -12725,6 +12931,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &275917412 stripped
@@ -12794,6 +13008,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -12873,6 +13095,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (61)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -14389,6 +14619,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabWasteBin (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
 --- !u!4 &346912705 stripped
@@ -14845,6 +15083,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
       propertyPath: m_Name
       value: Obj_LabIslandTable (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
@@ -15385,6 +15631,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabTableCabinet (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
 --- !u!4 &385410807 stripped
@@ -15725,6 +15979,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &387759385 stripped
@@ -15790,6 +16052,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (26)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -15869,6 +16139,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (70)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -16851,6 +17129,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &403464187 stripped
@@ -16912,6 +17198,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -17132,6 +17426,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabTableWedge (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
 --- !u!4 &408073686 stripped
@@ -17201,6 +17503,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
       propertyPath: m_Name
       value: Obj_FilingCabinet (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
@@ -17836,6 +18146,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -18482,6 +18800,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabIslandTable (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
 --- !u!4 &434026452 stripped
@@ -19024,6 +19350,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &442861715 stripped
@@ -19257,6 +19591,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
       propertyPath: m_Name
       value: Obj_LabTableCabinet (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
@@ -19516,6 +19858,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
       propertyPath: m_Name
       value: Obj_FilingCabinet (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
@@ -20050,6 +20400,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabWasteBin (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
 --- !u!4 &462916644 stripped
@@ -20117,7 +20475,7 @@ Transform:
   m_LocalScale: {x: 0.9548496, y: 0.37283158, z: 1.0859208}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &463692361 stripped
 Transform:
@@ -20243,6 +20601,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -20607,6 +20973,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
       propertyPath: m_Name
       value: Obj_LabIslandTable (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
@@ -21857,6 +22231,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabTableCabinet (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
 --- !u!4 &481823123 stripped
@@ -21926,6 +22308,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -22050,6 +22440,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (33)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -22471,6 +22869,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (68)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -22932,6 +23338,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &504623593 stripped
@@ -23295,6 +23709,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &509087379 stripped
@@ -23421,6 +23843,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -23813,6 +24243,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &530438455 stripped
@@ -23883,6 +24321,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!1001 &544501979
@@ -23947,6 +24393,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
       propertyPath: m_Name
       value: Obj_FilingCabinet (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
@@ -24504,6 +24958,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabWasteBin (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
 --- !u!4 &555388999 stripped
@@ -24578,6 +25040,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
       propertyPath: m_Name
       value: Obj_LabTableWedge (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
@@ -24715,6 +25185,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
       propertyPath: m_Name
       value: Obj_FilingCabinet (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
@@ -25060,6 +25538,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -25802,6 +26288,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabIslandTable (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
 --- !u!4 &617107820 stripped
@@ -25863,6 +26357,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
       propertyPath: m_Name
       value: Obj_LabSinkTable (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
@@ -26111,6 +26613,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &632547610 stripped
@@ -26242,6 +26752,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
       propertyPath: m_Name
       value: Obj_LabIslandTable (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
@@ -26469,6 +26987,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabTableWedge (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
 --- !u!4 &643364260 stripped
@@ -26534,6 +27060,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -27256,7 +27790,7 @@ GameObject:
   m_TagString: Environment
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!64 &656684537
 MeshCollider:
@@ -27734,6 +28268,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -28300,6 +28842,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (36)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -29327,13 +29877,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 705507993}
-  m_LocalRotation: {x: -0.6791203, y: 0.43080047, z: -0.46060237, w: -0.37556908}
+  m_LocalRotation: {x: -0.59240603, y: 0.40921625, z: 0.20791665, w: -0.66209364}
   m_LocalPosition: {x: -8.48, y: 3, z: -1.95}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 65.09, y: 134.189, z: -145.403}
+  m_LocalEulerAnglesHint: {x: 37.9, y: 267.327, z: -74.441}
 --- !u!43 &706286761
 Mesh:
   m_ObjectHideFlags: 0
@@ -31207,6 +31757,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!1001 &727254283
@@ -31226,7 +31784,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4671463230402729941, guid: b49c6b9f07c965043bf2fdc7b028d93c, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4671463230402729941, guid: b49c6b9f07c965043bf2fdc7b028d93c, type: 3}
       propertyPath: m_LocalScale.y
@@ -31287,6 +31845,10 @@ PrefabInstance:
     - target: {fileID: 4671463230635911733, guid: b49c6b9f07c965043bf2fdc7b028d93c, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4671463230635911735, guid: b49c6b9f07c965043bf2fdc7b028d93c, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4671463231052577523, guid: b49c6b9f07c965043bf2fdc7b028d93c, type: 3}
       propertyPath: field of view
@@ -31930,6 +32492,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -33714,8 +34284,12 @@ PrefabInstance:
       value: Obj_LabDTable (3)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 0
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
@@ -33881,6 +34455,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabDTable (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
 --- !u!4 &777349587 stripped
@@ -34007,6 +34589,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
       propertyPath: m_Name
       value: Obj_LabIslandTable (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
@@ -34400,6 +34990,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (44)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &791801841 stripped
@@ -34596,6 +35194,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabWasteBin (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
 --- !u!4 &796820905 stripped
@@ -34657,6 +35263,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -34931,6 +35545,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (53)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -36934,6 +37556,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &839469502 stripped
@@ -37330,6 +37960,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabWasteBin (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
 --- !u!4 &843753479 stripped
@@ -37655,6 +38293,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (69)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &853440790 stripped
@@ -37790,6 +38436,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (65)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -38206,6 +38860,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &860937556 stripped
@@ -38276,6 +38938,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabIslandTable (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
 --- !u!4 &863821564 stripped
@@ -38345,6 +39015,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -38674,6 +39352,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (71)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &869207907 stripped
@@ -38743,6 +39429,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (74)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -39381,6 +40075,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (76)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &888616633 stripped
@@ -39451,6 +40153,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!1001 &890476000
@@ -39515,6 +40225,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
       propertyPath: m_Name
       value: Obj_FilingCabinet (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
@@ -39586,6 +40304,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &895694029 stripped
@@ -39655,6 +40381,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
       propertyPath: m_Name
       value: Obj_FilingCabinet (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
@@ -39729,6 +40463,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -40034,6 +40776,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (49)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &905203775 stripped
@@ -40096,6 +40846,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabTableWedge (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
 --- !u!4 &906534348 stripped
@@ -40157,6 +40915,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
       propertyPath: m_Name
       value: Obj_LabIslandTable (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
@@ -40453,6 +41219,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &915572095 stripped
@@ -40649,6 +41423,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &925462034 stripped
@@ -40718,6 +41500,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
       propertyPath: m_Name
       value: Obj_LabTableWedge (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
@@ -42417,6 +43207,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &945321594 stripped
@@ -42504,7 +43302,7 @@ GameObject:
   m_TagString: Environment
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 8
   m_IsActive: 1
 --- !u!4 &949530574
 Transform:
@@ -43121,6 +43919,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabDTable (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
 --- !u!4 &965567373 stripped
@@ -43411,6 +44217,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &972796925 stripped
@@ -43573,6 +44387,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -43784,6 +44606,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (46)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -44011,6 +44841,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabTableWedge
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
 --- !u!1001 &989578088
@@ -44067,6 +44905,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -44134,6 +44980,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabDTable (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
 --- !u!4 &989951709 stripped
@@ -44195,6 +45049,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -44333,6 +45195,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_FilingCabinet (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
 --- !u!4 &998336100 stripped
@@ -44394,6 +45264,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
       propertyPath: m_Name
       value: Obj_LabTableWedge (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
@@ -44704,6 +45582,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &1009125876 stripped
@@ -44949,6 +45835,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
       propertyPath: m_Name
       value: Obj_LabSinkTable (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
@@ -45582,6 +46476,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!1 &1046111990
@@ -45898,6 +46800,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabTableCabinet (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
 --- !u!4 &1049557931 stripped
@@ -45968,6 +46878,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &1051734900 stripped
@@ -46037,6 +46955,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -46182,6 +47108,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (54)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -46766,6 +47700,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!1 &1075179085
@@ -47210,6 +48152,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (64)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &1089941340 stripped
@@ -47279,6 +48229,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -47576,6 +48534,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!1 &1099000558
@@ -47729,6 +48695,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
       propertyPath: m_Name
       value: Obj_LabSinkTable (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
@@ -48136,6 +49110,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (30)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -48755,6 +49737,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabTableWedge (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
 --- !u!4 &1118794955 stripped
@@ -49069,6 +50059,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!1 &1129851751
@@ -49293,6 +50291,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (58)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -49647,6 +50653,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -50113,6 +51127,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -51316,6 +52338,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabWasteBin
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
 --- !u!1001 &1209552190
@@ -52368,6 +53398,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabDTable (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
 --- !u!4 &1217840707 stripped
@@ -52438,6 +53476,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabTableWedge (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
 --- !u!4 &1220301568 stripped
@@ -52507,6 +53553,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
       propertyPath: m_Name
       value: Obj_LabTableWedge (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
@@ -52772,6 +53826,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
       propertyPath: m_Name
       value: Obj_LabDTable (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
@@ -54123,6 +55185,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &1252004234 stripped
@@ -54184,6 +55254,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (38)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -54559,6 +55637,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -55653,6 +56739,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabIslandTable (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
 --- !u!4 &1289200608 stripped
@@ -55714,6 +56808,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
       propertyPath: m_Name
       value: Obj_LabIslandTable (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
@@ -55785,6 +56887,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &1292557583 stripped
@@ -55855,6 +56965,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabWasteBin (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
 --- !u!4 &1293777220 stripped
@@ -55921,6 +57039,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -56311,6 +57437,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
       propertyPath: m_Name
       value: Obj_LabIslandTable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
@@ -56805,6 +57939,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabIslandTable (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
 --- !u!4 &1328201916 stripped
@@ -56932,6 +58074,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -57308,6 +58458,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
       propertyPath: m_Name
       value: Obj_FilingCabinet (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
@@ -57795,6 +58953,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_FilingCabinet (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
 --- !u!4 &1345818697 stripped
@@ -57864,6 +59030,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
       propertyPath: m_Name
       value: Obj_LabIslandTable (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
@@ -58806,6 +59980,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabIslandTable (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
 --- !u!4 &1353062506 stripped
@@ -58876,6 +60058,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -60004,6 +61194,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
       propertyPath: m_Name
       value: Obj_LabDTable (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
@@ -61153,6 +62351,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &1392388058 stripped
@@ -61628,6 +62834,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -62473,6 +63687,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -63325,6 +64547,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_FilingCabinet (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
 --- !u!4 &1440792969 stripped
@@ -63522,6 +64752,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &1448040014 stripped
@@ -63587,6 +64825,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (41)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -63714,6 +64960,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (28)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -63940,6 +65194,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabIslandTable (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
 --- !u!4 &1456710705 stripped
@@ -64010,6 +65272,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -64175,6 +65445,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -64752,6 +66030,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabWasteBin (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
 --- !u!4 &1480174163 stripped
@@ -64821,6 +66107,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -65250,6 +66544,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabWasteBin (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
 --- !u!4 &1484202858 stripped
@@ -65319,6 +66621,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -66370,6 +67680,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &1516587634 stripped
@@ -66488,6 +67806,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 928654b3caa31ca44bc51bdd22e8d2a3, type: 3}
       propertyPath: m_Name
       value: Obj_Keyboard (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 928654b3caa31ca44bc51bdd22e8d2a3, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 928654b3caa31ca44bc51bdd22e8d2a3, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 928654b3caa31ca44bc51bdd22e8d2a3, type: 3}
@@ -66909,6 +68235,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (47)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &1532271682 stripped
@@ -66978,6 +68312,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (24)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -68183,6 +69525,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_FilingCabinet (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
 --- !u!4 &1547963855 stripped
@@ -68248,6 +69598,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -68735,6 +70093,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &1556449423 stripped
@@ -68861,6 +70227,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -69066,6 +70440,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -69792,6 +71174,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &1576460479 stripped
@@ -70217,6 +71607,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabIslandTable (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
 --- !u!4 &1592936503 stripped
@@ -70278,6 +71676,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
       propertyPath: m_Name
       value: Obj_LabTableCabinet (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
@@ -70570,6 +71976,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!1 &1597630902
@@ -70733,6 +72147,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &1599021496 stripped
@@ -70864,6 +72286,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (23)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -71028,6 +72458,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -71489,6 +72927,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
       propertyPath: m_Name
       value: Obj_LabDTable (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
@@ -72817,6 +74263,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (67)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &1657084438 stripped
@@ -73174,6 +74628,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
       propertyPath: m_Name
       value: Obj_LabIslandTable (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
@@ -73538,6 +75000,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_FilingCabinet (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
 --- !u!1001 &1670329295
@@ -73602,6 +75072,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
       propertyPath: m_Name
       value: Obj_LabIslandTable (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
@@ -73876,6 +75354,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -74234,6 +75720,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
       propertyPath: m_Name
       value: Obj_LabTableWedge (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
@@ -74823,6 +76317,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (73)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &1702036131 stripped
@@ -75043,6 +76545,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (75)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &1704547514 stripped
@@ -75108,6 +76618,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
       propertyPath: m_Name
       value: Obj_LabDTable
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
@@ -75437,7 +76955,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 26
+  m_RootOrder: 25
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1715987027
 PrefabInstance:
@@ -76881,6 +78399,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &1741784963 stripped
@@ -77542,6 +79068,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabWasteBin (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
 --- !u!4 &1749958614 stripped
@@ -77849,6 +79383,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (57)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -78213,6 +79755,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &1759755000 stripped
@@ -78375,6 +79925,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -79066,6 +80624,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabDTable (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3533f6f64e96dc04abf173413c5e8a01, type: 3}
 --- !u!4 &1793843945 stripped
@@ -79135,6 +80701,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
       propertyPath: m_Name
       value: Obj_LabTableCabinet (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 17a7fb8797931ac42ab41094d0d7bb07, type: 3}
@@ -79336,6 +80910,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (56)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &1800791124 stripped
@@ -79402,6 +80984,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -79618,6 +81208,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -80737,6 +82335,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &1831005381 stripped
@@ -80807,6 +82413,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &1832059285 stripped
@@ -80868,6 +82482,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (34)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -80938,6 +82560,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (66)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -81195,6 +82825,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &1842767874 stripped
@@ -81331,6 +82969,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (55)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -81565,6 +83211,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (51)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -81850,6 +83504,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -82159,6 +83821,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (78)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -82629,6 +84299,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
       propertyPath: m_Name
       value: Obj_FilingCabinet (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
@@ -83173,6 +84851,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (59)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &1890688607 stripped
@@ -83486,6 +85172,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -83866,6 +85560,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -84798,6 +86500,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &1922104879 stripped
@@ -85072,6 +86782,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &1930745508 stripped
@@ -85297,6 +87015,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabWasteBin (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
 --- !u!4 &1940363275 stripped
@@ -85363,6 +87089,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabSinkTable (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
 --- !u!4 &1946766094 stripped
@@ -85428,6 +87162,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (72)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -85898,6 +87640,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabWasteBin (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
 --- !u!4 &1954249409 stripped
@@ -85967,6 +87717,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (14)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -86043,6 +87801,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (62)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &1971538424 stripped
@@ -86108,6 +87874,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
       propertyPath: m_Name
       value: Obj_LabCloset (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
@@ -86179,6 +87953,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (52)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &1974740956 stripped
@@ -86248,6 +88030,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
       propertyPath: m_Name
       value: Obj_LabTableWedge (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
@@ -86319,6 +88109,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabTableWedge (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
 --- !u!4 &1980331837 stripped
@@ -86384,6 +88182,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (44)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -86511,6 +88317,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -87386,6 +89200,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabTableWedge (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
 --- !u!4 &2000305082 stripped
@@ -87631,6 +89453,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabCloset (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0a49b9505cda28488e33ae951e54760, type: 3}
 --- !u!4 &2006025861 stripped
@@ -87819,6 +89649,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabChair (63)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
 --- !u!4 &2010861055 stripped
@@ -87945,6 +89783,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (25)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -89057,6 +90903,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
       propertyPath: m_Name
       value: Obj_LabIslandTable (20)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
@@ -90461,6 +92315,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabTableWedge (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b294991b3fbf20b488e679059b25a11e, type: 3}
 --- !u!4 &2050979051 stripped
@@ -90522,6 +92384,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
       propertyPath: m_Name
       value: Obj_LabWasteBin (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
@@ -91511,6 +93381,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabSinkTable (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
 --- !u!4 &2055910388 stripped
@@ -91572,6 +93450,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
       propertyPath: m_Name
       value: Obj_LabIslandTable (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 463bac1110b02a24d858056ef11d8314, type: 3}
@@ -92265,6 +94151,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabWasteBin (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eadeb6d3d6f4e4c4b8e710e20ec5a971, type: 3}
 --- !u!4 &2070757430 stripped
@@ -92335,6 +94229,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (60)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
@@ -93057,6 +94959,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obj_LabSinkTable
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 81f37815873377e46a9bcbb3371da194, type: 3}
 --- !u!1 &2089448286
@@ -93560,6 +95470,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
       propertyPath: m_Name
       value: Obj_FilingCabinet
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2fcb166b7b022ba4f9d3c18b311822f7, type: 3}
@@ -94092,6 +96010,14 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
       propertyPath: m_Name
       value: Obj_LabChair (77)
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e31bf28fe5a0f9c4a870f601067c8e88, type: 3}
