@@ -93,7 +93,7 @@ SphereCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1750681780864933745}
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
   m_Radius: 0.58
@@ -110,8 +110,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5942d7660fbc3e44e99edfe28c423c52, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletSpeed: 50
-  splatEffect: {fileID: 0}
+  bulletSpeed: 30
+  splatEffect: {fileID: 533730454786828092, guid: 2a4b669232d3b02488ad87f749e12b6d, type: 3}
 --- !u!54 &-9160384625629955900
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -127,7 +127,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 2
+  m_CollisionDetection: 0
 --- !u!82 &6406137659877190709
 AudioSource:
   m_ObjectHideFlags: 0
