@@ -44,4 +44,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   enemyPrefab: {fileID: 3865307284308208301, guid: 7a3b6b64787beb24eb60b7c3d38bfa56, type: 3}
-  timeBetweenSpawns: 20
+  timeBetweenSpawns: 30
