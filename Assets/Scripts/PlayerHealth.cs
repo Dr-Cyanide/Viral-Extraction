@@ -14,6 +14,14 @@ public class PlayerHealth : MonoBehaviour
     public float respawnDelay = 3.0f;
     public Respawner respawn;
 
+    public GameObject character;
+    public Text text1;
+    public Text text2;
+    public Text text3;
+    public GameObject gameover;
+    public Camera player;
+    public Camera lose;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -42,6 +50,15 @@ public class PlayerHealth : MonoBehaviour
         // death stuff
         // Set a delay
         Invoke("RespawnFromDeath", respawnDelay);
+        character.SetActive(false);
+        text1.gameObject.SetActive(true);
+        text2.gameObject.SetActive(true);
+        text3.gameObject.SetActive(true);
+        gameover.GetComponent<Gameover>().restart();
+        player.enabled = false;
+        lose.enabled = true;
+
+
 
     }
 

@@ -6,9 +6,9 @@ TagManager:
   tags:
   - Environment
   - Enemy
-  - LevelManager
   - CheckPoint
   - StartPoint
+  - GameManager
   layers:
   - Default
   - TransparentFX
