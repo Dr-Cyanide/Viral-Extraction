@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Gun : MonoBehaviour
 {
@@ -14,6 +15,7 @@ public class Gun : MonoBehaviour
     {
         bulletSpawnPoint = transform.GetChild(0).gameObject;
         canFire = true;
+
     }
 
     // Update is called once per frame
@@ -24,18 +26,31 @@ public class Gun : MonoBehaviour
 
     public void fireShot()
     {
+
         if (Input.GetMouseButtonDown(0) && canFire)
         {
             StartCoroutine(FireRate());
         }
-         
+
         IEnumerator FireRate()
         {
             canFire = false;
             GameObject bullet = Instantiate(bulletPrefab, bulletSpawnPoint.transform.position, bulletSpawnPoint.transform.rotation);
             yield return new WaitForSeconds(rateOfFire);
             canFire = true;
+
         }
-            
     }
 }
+        
+
+         
+       
+    
+
+
+
+
+
+
+
