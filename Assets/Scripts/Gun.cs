@@ -11,6 +11,7 @@ public class Gun : MonoBehaviour
     public bool canFire;
     public float rateOfFire;
     public TextMeshProUGUI ammoInfoText;
+    public GameObject ReloadText;
 
     public int currentClipAmmo;
     public int maxAmmo = 15;
@@ -33,7 +34,19 @@ public class Gun : MonoBehaviour
     {
         Gun currentgun = FindObjectOfType<Gun>();
         ammoInfoText.text = currentgun.currentClipAmmo + " / " + currentgun.reserveSize;
-        if (currentClipAmmo == 0 && reserveSize == 0)
+
+        if (currentClipAmmo == 0 && !isReloading)
+        {
+            ReloadText.SetActive(true);
+        }
+        if(Input.GetKeyDown(KeyCode.R)&& !isReloading)
+        {
+            ReloadText.SetActive(false);
+            StartCoroutine(Reload());
+        }
+        Shoot();
+
+        if (currentClipAmmo == 0)
         {
             canFire = false;
             return;
@@ -41,13 +54,6 @@ public class Gun : MonoBehaviour
         if (isReloading)
             return;
 
-        
-        Shoot();
-
-        if (currentClipAmmo == 0 && !isReloading || Input.GetKeyDown(KeyCode.R) && !isReloading)
-        {
-            StartCoroutine(Reload());
-        }
     } 
     
 
@@ -89,6 +95,7 @@ public class Gun : MonoBehaviour
         }
        
         isReloading = false;
+        canFire = true;
     }
 }
         
