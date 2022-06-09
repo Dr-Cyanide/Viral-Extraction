@@ -31,7 +31,9 @@ public class Gun : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(currentClipAmmo == 0 && reserveSize == 0)
+        Gun currentgun = FindObjectOfType<Gun>();
+        ammoInfoText.text = currentgun.currentClipAmmo + " / " + currentgun.reserveSize;
+        if (currentClipAmmo == 0 && reserveSize == 0)
         {
             canFire = false;
             return;
@@ -39,11 +41,10 @@ public class Gun : MonoBehaviour
         if (isReloading)
             return;
 
-        Gun currentgun = FindObjectOfType<Gun>();
-        ammoInfoText.text = currentgun.currentClipAmmo + " / " + currentgun.reserveSize;
+        
         Shoot();
 
-        if(currentClipAmmo == 0 && !isReloading)
+        if (currentClipAmmo == 0 && !isReloading || Input.GetKeyDown(KeyCode.R) && !isReloading)
         {
             StartCoroutine(Reload());
         }
@@ -73,16 +74,20 @@ public class Gun : MonoBehaviour
         isReloading = true;
 
         yield return new WaitForSeconds(reloadTime);
-        if(reserveSize >= maxAmmo)
+        if(reserveSize != 0 && currentClipAmmo < maxAmmo)
         {
-            currentClipAmmo = maxAmmo;
-            reserveSize -= maxAmmo;
+            if (reserveSize > maxAmmo - currentClipAmmo)
+            {
+                reserveSize = reserveSize - (maxAmmo - currentClipAmmo);
+                currentClipAmmo = maxAmmo;
+            }
+            else
+            {
+                currentClipAmmo = currentClipAmmo + reserveSize;
+                reserveSize = 0;
+            }
         }
-        else
-        {
-            currentClipAmmo = reserveSize;
-            reserveSize = 0;  
-        }
+       
         isReloading = false;
     }
 }
