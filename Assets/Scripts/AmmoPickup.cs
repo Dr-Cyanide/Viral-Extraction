@@ -14,7 +14,7 @@ public class AmmoPickup : MonoBehaviour
 
     }
 
-    // Update is called once per frame
+    // Refills guns ammo reserve counter, tops up accordingly to the max amount allowed, and checks to see if reserve count is already 25 which denies ability to pick up
     void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.tag == "Player" && Player.GetComponent<Gun>().reserveSize != Player.GetComponent<Gun>().maxReserveSize)

@@ -59,7 +59,7 @@ public class Gun : MonoBehaviour
 
     } 
     
-
+    //Shooting function with ammo taken away after each shot
     public void Shoot()
     {
 
@@ -77,7 +77,7 @@ public class Gun : MonoBehaviour
             currentClipAmmo--;
         }
     }
-
+    //reload function, checks how much ammo is in clip and reserve and tops up clip with needed amount for max
     IEnumerator Reload()
     {
         isReloading = true;
@@ -100,6 +100,7 @@ public class Gun : MonoBehaviour
         isReloading = false;
         canFire = true;
     }
+    //Ammunition refill from ammo pick ups/collectable
     public void AddAmmo(int reserveRefill)
     {
         reserveSize += reserveRefill;
