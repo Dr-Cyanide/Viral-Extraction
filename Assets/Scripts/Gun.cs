@@ -16,9 +16,10 @@ public class Gun : MonoBehaviour
     public int currentClipAmmo;
     public int maxAmmo = 15;
     public int reserveSize = 25;
+    public int maxReserveSize = 25;
 
     public float reloadTime = 1.5f;
-    private bool isReloading;
+    public bool isReloading;
 
     // Start is called before the first frame update
     void Start()
@@ -27,11 +28,13 @@ public class Gun : MonoBehaviour
         canFire = true;
 
         currentClipAmmo = maxAmmo;
+       
     }
 
     // Update is called once per frame
     void Update()
     {
+      
         Gun currentgun = FindObjectOfType<Gun>();
         ammoInfoText.text = currentgun.currentClipAmmo + " / " + currentgun.reserveSize;
 
@@ -96,6 +99,17 @@ public class Gun : MonoBehaviour
        
         isReloading = false;
         canFire = true;
+    }
+    public void AddAmmo(int reserveRefill)
+    {
+        reserveSize += reserveRefill;
+
+        if (reserveSize > maxReserveSize)
+        {
+            reserveSize = maxReserveSize;
+        }
+
+
     }
 }
         
