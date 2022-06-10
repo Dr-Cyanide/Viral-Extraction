@@ -27,13 +27,3 @@ public class AmmoPickup : MonoBehaviour
 
     }
 }
-      
-            
-            
-
-            
-
-        
-    
-
-

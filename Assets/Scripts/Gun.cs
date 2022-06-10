@@ -112,15 +112,3 @@ public class Gun : MonoBehaviour
 
     }
 }
-        
-
-         
-       
-    
-
-
-
-
-
-
-
