@@ -22829,7 +22829,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d20bc06afab0614449dfcf861f290d47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  reserveRefill: 20
+  reserveRefill: 25
   Player: {fileID: 795202770}
 --- !u!65 &447036621
 BoxCollider:
@@ -22902,11 +22902,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bc129360734ba94083f92d8ed7c9da8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundToPlay: {fileID: 8300000, guid: ae72d063459f98046a185b5b2da84b6b, type: 3}
+  soundToPlay: {fileID: 8300000, guid: 80b0b543c222e5549a0f237d3e96b319, type: 3}
   remoteSoundEffect: 0
   remoteSFXLocation: {fileID: 0}
   sourceToPlay: {fileID: 1004786460}
-  volume: 0.5
+  volume: 0.6
   destructible: 0
 --- !u!1 &447515360 stripped
 GameObject:
@@ -23440,11 +23440,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bc129360734ba94083f92d8ed7c9da8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundToPlay: {fileID: 8300000, guid: ae72d063459f98046a185b5b2da84b6b, type: 3}
+  soundToPlay: {fileID: 8300000, guid: 80b0b543c222e5549a0f237d3e96b319, type: 3}
   remoteSoundEffect: 0
   remoteSFXLocation: {fileID: 0}
   sourceToPlay: {fileID: 1004786460}
-  volume: 0.5
+  volume: 0.6
   destructible: 0
 --- !u!114 &452534302
 MonoBehaviour:
@@ -23458,7 +23458,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d20bc06afab0614449dfcf861f290d47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  reserveRefill: 20
+  reserveRefill: 25
   Player: {fileID: 795202770}
 --- !u!23 &452534303
 MeshRenderer:
@@ -23764,11 +23764,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bc129360734ba94083f92d8ed7c9da8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundToPlay: {fileID: 8300000, guid: ae72d063459f98046a185b5b2da84b6b, type: 3}
+  soundToPlay: {fileID: 8300000, guid: 80b0b543c222e5549a0f237d3e96b319, type: 3}
   remoteSoundEffect: 0
   remoteSFXLocation: {fileID: 0}
   sourceToPlay: {fileID: 1004786460}
-  volume: 0.5
+  volume: 0.6
   destructible: 0
 --- !u!114 &455187087
 MonoBehaviour:
@@ -23782,7 +23782,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d20bc06afab0614449dfcf861f290d47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  reserveRefill: 20
+  reserveRefill: 25
   Player: {fileID: 795202770}
 --- !u!23 &455187088
 MeshRenderer:
@@ -33806,11 +33806,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bc129360734ba94083f92d8ed7c9da8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundToPlay: {fileID: 8300000, guid: ae72d063459f98046a185b5b2da84b6b, type: 3}
+  soundToPlay: {fileID: 8300000, guid: 80b0b543c222e5549a0f237d3e96b319, type: 3}
   remoteSoundEffect: 0
   remoteSFXLocation: {fileID: 0}
   sourceToPlay: {fileID: 1004786460}
-  volume: 0.5
+  volume: 0.6
   destructible: 0
 --- !u!114 &653722084
 MonoBehaviour:
@@ -33824,7 +33824,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d20bc06afab0614449dfcf861f290d47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  reserveRefill: 20
+  reserveRefill: 25
   Player: {fileID: 795202770}
 --- !u!23 &653722085
 MeshRenderer:
@@ -42054,11 +42054,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bc129360734ba94083f92d8ed7c9da8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundToPlay: {fileID: 8300000, guid: ae72d063459f98046a185b5b2da84b6b, type: 3}
+  soundToPlay: {fileID: 8300000, guid: 80b0b543c222e5549a0f237d3e96b319, type: 3}
   remoteSoundEffect: 0
   remoteSFXLocation: {fileID: 0}
   sourceToPlay: {fileID: 1004786460}
-  volume: 0.5
+  volume: 0.6
   destructible: 0
 --- !u!114 &781830558
 MonoBehaviour:
@@ -42072,7 +42072,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d20bc06afab0614449dfcf861f290d47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  reserveRefill: 20
+  reserveRefill: 25
   Player: {fileID: 795202770}
 --- !u!23 &781830559
 MeshRenderer:
@@ -42910,9 +42910,9 @@ MonoBehaviour:
   ammoInfoText: {fileID: 2039642770}
   ReloadText: {fileID: 870201731}
   currentClipAmmo: 0
-  maxAmmo: 10
-  reserveSize: 20
-  maxReserveSize: 20
+  maxAmmo: 15
+  reserveSize: 25
+  maxReserveSize: 25
   reloadTime: 1.5
   isReloading: 0
 --- !u!1 &795727820 stripped
@@ -46072,11 +46072,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bc129360734ba94083f92d8ed7c9da8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundToPlay: {fileID: 8300000, guid: ae72d063459f98046a185b5b2da84b6b, type: 3}
+  soundToPlay: {fileID: 8300000, guid: 80b0b543c222e5549a0f237d3e96b319, type: 3}
   remoteSoundEffect: 0
   remoteSFXLocation: {fileID: 0}
   sourceToPlay: {fileID: 1004786460}
-  volume: 0.5
+  volume: 0.6
   destructible: 0
 --- !u!114 &833379499
 MonoBehaviour:
@@ -46090,7 +46090,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d20bc06afab0614449dfcf861f290d47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  reserveRefill: 20
+  reserveRefill: 25
   Player: {fileID: 795202770}
 --- !u!23 &833379500
 MeshRenderer:
@@ -51525,11 +51525,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bc129360734ba94083f92d8ed7c9da8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundToPlay: {fileID: 8300000, guid: ae72d063459f98046a185b5b2da84b6b, type: 3}
+  soundToPlay: {fileID: 8300000, guid: 80b0b543c222e5549a0f237d3e96b319, type: 3}
   remoteSoundEffect: 0
   remoteSFXLocation: {fileID: 0}
   sourceToPlay: {fileID: 1004786460}
-  volume: 0.5
+  volume: 0.6
   destructible: 0
 --- !u!114 &917938098
 MonoBehaviour:
@@ -51543,7 +51543,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d20bc06afab0614449dfcf861f290d47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  reserveRefill: 20
+  reserveRefill: 25
   Player: {fileID: 795202770}
 --- !u!23 &917938099
 MeshRenderer:
@@ -64309,11 +64309,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bc129360734ba94083f92d8ed7c9da8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundToPlay: {fileID: 8300000, guid: ae72d063459f98046a185b5b2da84b6b, type: 3}
+  soundToPlay: {fileID: 8300000, guid: 80b0b543c222e5549a0f237d3e96b319, type: 3}
   remoteSoundEffect: 0
   remoteSFXLocation: {fileID: 0}
   sourceToPlay: {fileID: 1004786460}
-  volume: 0.5
+  volume: 0.6
   destructible: 0
 --- !u!114 &1172505518
 MonoBehaviour:
@@ -64327,7 +64327,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d20bc06afab0614449dfcf861f290d47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  reserveRefill: 20
+  reserveRefill: 25
   Player: {fileID: 795202770}
 --- !u!23 &1172505519
 MeshRenderer:
@@ -78797,7 +78797,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d20bc06afab0614449dfcf861f290d47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  reserveRefill: 20
+  reserveRefill: 25
   Player: {fileID: 795202770}
 --- !u!114 &1411341345
 MonoBehaviour:
@@ -78811,11 +78811,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bc129360734ba94083f92d8ed7c9da8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundToPlay: {fileID: 8300000, guid: ae72d063459f98046a185b5b2da84b6b, type: 3}
+  soundToPlay: {fileID: 8300000, guid: 80b0b543c222e5549a0f237d3e96b319, type: 3}
   remoteSoundEffect: 0
   remoteSFXLocation: {fileID: 0}
   sourceToPlay: {fileID: 1004786460}
-  volume: 0.5
+  volume: 0.6
   destructible: 0
 --- !u!23 &1411341346
 MeshRenderer:
@@ -87960,11 +87960,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bc129360734ba94083f92d8ed7c9da8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundToPlay: {fileID: 8300000, guid: ae72d063459f98046a185b5b2da84b6b, type: 3}
+  soundToPlay: {fileID: 8300000, guid: 80b0b543c222e5549a0f237d3e96b319, type: 3}
   remoteSoundEffect: 0
   remoteSFXLocation: {fileID: 0}
   sourceToPlay: {fileID: 1004786460}
-  volume: 0.5
+  volume: 0.6
   destructible: 0
 --- !u!114 &1578602235
 MonoBehaviour:
@@ -87978,7 +87978,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d20bc06afab0614449dfcf861f290d47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  reserveRefill: 20
+  reserveRefill: 25
   Player: {fileID: 795202770}
 --- !u!23 &1578602236
 MeshRenderer:
@@ -110355,11 +110355,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4bc129360734ba94083f92d8ed7c9da8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  soundToPlay: {fileID: 8300000, guid: ae72d063459f98046a185b5b2da84b6b, type: 3}
+  soundToPlay: {fileID: 8300000, guid: 80b0b543c222e5549a0f237d3e96b319, type: 3}
   remoteSoundEffect: 0
   remoteSFXLocation: {fileID: 0}
   sourceToPlay: {fileID: 1004786460}
-  volume: 0.5
+  volume: 0.6
   destructible: 0
 --- !u!114 &2031487439
 MonoBehaviour:
@@ -110373,7 +110373,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d20bc06afab0614449dfcf861f290d47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  reserveRefill: 20
+  reserveRefill: 25
   Player: {fileID: 795202770}
 --- !u!23 &2031487440
 MeshRenderer:
