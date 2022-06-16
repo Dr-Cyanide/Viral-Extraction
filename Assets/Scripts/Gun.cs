@@ -21,7 +21,7 @@ public class Gun : MonoBehaviour
     public float reloadTime = 1.5f;
     public bool isReloading;
 
-    // Start is called before the first frame update
+    // Checks that the player can shoot, and that clip ammo and max ammo are full on start
     void Start()
     {
         bulletSpawnPoint = transform.GetChild(0).gameObject;
@@ -31,14 +31,14 @@ public class Gun : MonoBehaviour
        
     }
 
-    // Update is called once per frame
+    // Update is called once per frame for the ammuntion counter UI, if the player can reload or shoot, and displays a message if there is 0 ammo in the guns clip
     void Update()
     {
       
-        Gun currentgun = FindObjectOfType<Gun>();
+        Gun currentgun = FindObjectOfType<Gun>(); //ammunition counter UI
         ammoInfoText.text = currentgun.currentClipAmmo + " / " + currentgun.reserveSize;
 
-        if (currentClipAmmo == 0 && !isReloading)
+        if (currentClipAmmo == 0 && !isReloading)// Displays reload message
         {
             ReloadText.SetActive(true);
         }
@@ -59,11 +59,11 @@ public class Gun : MonoBehaviour
 
     } 
     
-    //Shooting function with ammo taken away after each shot
+    //Shooting function with ammo taken away after each shot while making sure the player can't shoot and reload at the same time
     public void Shoot()
     {
 
-        if (Input.GetMouseButtonDown(0) && canFire)
+        if (Input.GetMouseButtonDown(0) && canFire && !isReloading)
         {
             StartCoroutine(FireRate());
         }
@@ -77,12 +77,12 @@ public class Gun : MonoBehaviour
             currentClipAmmo--;
         }
     }
-    //reload function, checks how much ammo is in clip and reserve and tops up clip with needed amount for max
+    //reload function, checks how much ammo is in clip and reserve and tops up clip with needed amount for max from reserve
     IEnumerator Reload()
     {
         isReloading = true;
 
-        yield return new WaitForSeconds(reloadTime);
+        yield return new WaitForSeconds(reloadTime);//after the reload time the script checks if max ammo in clip is low and loads it to max from reserve accurately
         if(reserveSize != 0 && currentClipAmmo < maxAmmo)
         {
             if (reserveSize > maxAmmo - currentClipAmmo)
@@ -98,9 +98,8 @@ public class Gun : MonoBehaviour
         }
        
         isReloading = false;
-        canFire = true;
     }
-    //Ammunition refill from ammo pick ups/collectable
+    //Ammunition refill from ammo pick ups/collectable, which ensures reserve is topped up correctly and cannot be overfilled above 25.
     public void AddAmmo(int reserveRefill)
     {
         reserveSize += reserveRefill;
