@@ -14,7 +14,7 @@ public class AmmoPickup : MonoBehaviour
 
     }
 
-    // Refills guns ammo reserve counter, tops up accordingly to the max amount allowed, and checks to see if reserve count is already 25 which denies ability to pick up
+    // Refills guns ammo reserve counter, tops up accordingly to the max amount allowed, and checks to see if reserve count is already 25 which denies player to pick up
     // If it can be picked up the item is destroyed
     void OnTriggerEnter(Collider other)
     {

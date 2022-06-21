@@ -54,6 +54,10 @@ public class Gun : MonoBehaviour
             canFire = false;
             return;
         }
+        if (currentClipAmmo == 15)
+        {
+            canFire=true;
+        }
         if (isReloading)
             return;
 
@@ -99,7 +103,7 @@ public class Gun : MonoBehaviour
        
         isReloading = false;
     }
-    //Ammunition refill from ammo pick ups/collectable, which ensures reserve is topped up correctly and cannot be overfilled above 25.
+    //Ammunition refill from ammo pick ups/collectable, ensures reserve is topped up correctly and cannot be overfilled above 25
     public void AddAmmo(int reserveRefill)
     {
         reserveSize += reserveRefill;
