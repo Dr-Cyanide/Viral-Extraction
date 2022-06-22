@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class AmmoPickup : MonoBehaviour
 {
-    public int reserveRefill;
+    public int reserveRefill;// refills the reserve amount on the UI ammo counter
     public GameObject Player;
 
     // Start is called before the first frame update
