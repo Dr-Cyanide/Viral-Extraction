@@ -103,7 +103,7 @@ public class Gun : MonoBehaviour
        
         isReloading = false;
     }
-    //Ammunition refill from ammo pick ups/collectable, ensures reserve is topped up correctly and cannot be overfilled above 25
+    //Ammunition refill from ammo pick ups/collectable, ensures reserve is topped up correctly and cannot be overfilled above X amount
     public void AddAmmo(int reserveRefill)
     {
         reserveSize += reserveRefill;
